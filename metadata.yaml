@@ -1,0 +1,39 @@
+_repo: Anne--A-Novel_32707
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Reinhart, Charles Stanley
+    aliases:
+    - Reinhart, Charles S.
+    - Reinhart, C. S. (Charles Stanley)
+    birthdate: 1844
+    deathdate: 1896
+    gutenberg_agent_id: '31538'
+    url: http://www.gutenberg.org/2009/agents/31538
+covers:
+- cover_type: archival
+  image_path: 32707-h/images/ill_cover_thumb.jpg
+creator:
+  author:
+    agent_name: Woolson, Constance Fenimore
+    alias: March, Anne
+    birthdate: 1840
+    deathdate: 1894
+    gutenberg_agent_id: '2041'
+    url: http://www.gutenberg.org/2009/agents/2041
+    wikipedia: http://en.wikipedia.org/wiki/Constance_Fenimore_Woolson
+description: ''
+gutenberg_issued: '2010-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32707'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mackinac Island (Mich. : Island) -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+title: 'Anne: A Novel'
+url: http://www.gutenberg.org/ebooks/32707
