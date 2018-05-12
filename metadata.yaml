@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2041
     wikipedia: http://en.wikipedia.org/wiki/Constance_Fenimore_Woolson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32707#Anne--A-Novel
 gutenberg_issued: '2010-06-06'
 gutenberg_type: Text
 identifiers:
